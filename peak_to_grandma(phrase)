@@ -1,0 +1,75 @@
+
+[1mFrom:[0m /home/milanvpage/Development/Code/speaking-grandma/grandma.rb:32 Object#speak_to_grandma:
+
+    [1;34m31[0m: [32mdef[0m [1;34mspeak_to_grandma[0m(phrase)
+ => [1;34m32[0m:     binding.pry
+    [1;34m33[0m:     phrase == [31m[1;31m"[0m[31mI LOVE YOU GRANDMA![1;31m"[0m[31m[0m.upcase
+    [1;34m34[0m:    [32mif[0m phrase == phrase.upcase
+    [1;34m35[0m:        puts [31m[1;31m"[0m[31mI LOVE YOU TOO PUMPKIN![1;31m"[0m[31m[0m
+    [1;34m36[0m:    [32melsif[0m phrase == phrase
+    [1;34m37[0m:        puts [31m[1;31m"[0m[31mHUH? SPEAK UP, SONNY![1;31m"[0m[31m[0m
+    [1;34m38[0m:    [32melse[0m
+    [1;34m39[0m:        puts [31m[1;31m"[0m[31mWHAT![1;31m"[0m[31m[0m
+    [1;34m40[0m:    [32mend[0m
+    [1;34m41[0m: [32mend[0m
+
+
+[1mFrom:[0m /home/milanvpage/Development/Code/speaking-grandma/grandma.rb:32 Object#speak_to_grandma:
+
+    [1;34m31[0m: [32mdef[0m [1;34mspeak_to_grandma[0m(phrase)
+ => [1;34m32[0m:     binding.pry
+    [1;34m33[0m:     phrase == [31m[1;31m"[0m[31mI LOVE YOU GRANDMA![1;31m"[0m[31m[0m.upcase
+    [1;34m34[0m:    [32mif[0m phrase == phrase.upcase
+    [1;34m35[0m:        puts [31m[1;31m"[0m[31mI LOVE YOU TOO PUMPKIN![1;31m"[0m[31m[0m
+    [1;34m36[0m:    [32melsif[0m phrase == phrase
+    [1;34m37[0m:        puts [31m[1;31m"[0m[31mHUH? SPEAK UP, SONNY![1;31m"[0m[31m[0m
+    [1;34m38[0m:    [32melse[0m
+    [1;34m39[0m:        puts [31m[1;31m"[0m[31mWHAT![1;31m"[0m[31m[0m
+    [1;34m40[0m:    [32mend[0m
+    [1;34m41[0m: [32mend[0m
+
+
+[1mFrom:[0m /home/milanvpage/Development/Code/speaking-grandma/grandma.rb:32 Object#speak_to_grandma:
+
+    [1;34m31[0m: [32mdef[0m [1;34mspeak_to_grandma[0m(phrase)
+ => [1;34m32[0m:     binding.pry
+    [1;34m33[0m:     phrase == [31m[1;31m"[0m[31mI LOVE YOU GRANDMA![1;31m"[0m[31m[0m.upcase
+    [1;34m34[0m:    [32mif[0m phrase == phrase.upcase
+    [1;34m35[0m:        puts [31m[1;31m"[0m[31mI LOVE YOU TOO PUMPKIN![1;31m"[0m[31m[0m
+    [1;34m36[0m:    [32melsif[0m phrase == phrase
+    [1;34m37[0m:        puts [31m[1;31m"[0m[31mHUH? SPEAK UP, SONNY![1;31m"[0m[31m[0m
+    [1;34m38[0m:    [32melse[0m
+    [1;34m39[0m:        puts [31m[1;31m"[0m[31mWHAT![1;31m"[0m[31m[0m
+    [1;34m40[0m:    [32mend[0m
+    [1;34m41[0m: [32mend[0m
+
+
+[1mFrom:[0m /home/milanvpage/Development/Code/speaking-grandma/grandma.rb:32 Object#speak_to_grandma:
+
+    [1;34m31[0m: [32mdef[0m [1;34mspeak_to_grandma[0m(phrase)
+ => [1;34m32[0m:     binding.pry
+    [1;34m33[0m:     phrase == [31m[1;31m"[0m[31mI LOVE YOU GRANDMA![1;31m"[0m[31m[0m.upcase
+    [1;34m34[0m:    [32mif[0m phrase == phrase.upcase
+    [1;34m35[0m:        puts [31m[1;31m"[0m[31mI LOVE YOU TOO PUMPKIN![1;31m"[0m[31m[0m
+    [1;34m36[0m:    [32melsif[0m phrase == phrase
+    [1;34m37[0m:        puts [31m[1;31m"[0m[31mHUH? SPEAK UP, SONNY![1;31m"[0m[31m[0m
+    [1;34m38[0m:    [32melse[0m
+    [1;34m39[0m:        puts [31m[1;31m"[0m[31mWHAT![1;31m"[0m[31m[0m
+    [1;34m40[0m:    [32mend[0m
+    [1;34m41[0m: [32mend[0m
+
+
+[1mFrom:[0m /home/milanvpage/Development/Code/speaking-grandma/grandma.rb:32 Object#speak_to_grandma:
+
+    [1;34m31[0m: [32mdef[0m [1;34mspeak_to_grandma[0m(phrase)
+ => [1;34m32[0m:     binding.pry
+    [1;34m33[0m:     phrase == [31m[1;31m"[0m[31mI LOVE YOU GRANDMA![1;31m"[0m[31m[0m.upcase
+    [1;34m34[0m:    [32mif[0m phrase == phrase.upcase
+    [1;34m35[0m:        puts [31m[1;31m"[0m[31mI LOVE YOU TOO PUMPKIN![1;31m"[0m[31m[0m
+    [1;34m36[0m:    [32melsif[0m phrase == phrase
+    [1;34m37[0m:        puts [31m[1;31m"[0m[31mHUH? SPEAK UP, SONNY![1;31m"[0m[31m[0m
+    [1;34m38[0m:    [32melse[0m
+    [1;34m39[0m:        puts [31m[1;31m"[0m[31mWHAT![1;31m"[0m[31m[0m
+    [1;34m40[0m:    [32mend[0m
+    [1;34m41[0m: [32mend[0m
+
